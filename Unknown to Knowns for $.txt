@@ -1,0 +1,18 @@
+What don't I* know about the things I* spend money on? 
+
+Vacation mode = notification and approval from eBay to "be late"
+SKU GRID notifications needed emails and
+Profit Formulas do not handle the repricing
+Safe repricing is not good for protecting against losses
+History
+Amazon reprices multiple times during a day
+
+Multiple quantity = issue with know
+I has a $10,000,000 price decrease. What do I do!
+Days_N???
+
+
+
+
+
+((vendor_price+vendor_shipping)*(0/100+1)+(((vendor_price+vendor_shipping)*(0/100+1)*40/100+0)+0+abs(((vendor_price+vendor_shipping)*(0/100+1)*40/100+0)-0))/2+0)/((100-0-0)/100)

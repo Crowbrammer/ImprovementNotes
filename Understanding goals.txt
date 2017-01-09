@@ -1,0 +1,79 @@
+What is my understanding goal for this 30 minutes? 
+
+How much of what I*'ve learned can be applied to my "first wow song experience, every time factory"?
+
+Understand how to get Pzizz's apk file
+Understand how to read Pzizz's code
+
+
+
+
+Finish Ch. 4 toward understanding code enough to write the data -> log -> journal code
+	* Understand exercise 1.3 of Think Python, Ch. 4
+	condition that enables me to understand this code in an outstanding way forever in the future
+		What are all the "coding laws" and definitions related to this... what patterns are inheritantly available in this code?
+			Function
+			Tuple
+			Array
+			Constructor
+			Initializer
+			Overload
+			Overrride
+			Method
+			Inheritance
+			
+	Understand this code
+		Constructor - object is already created when this method is called... initializer, created then value initialized...
+		self... 
+		
+	
+		def fd(self, dist=1):
+        """Moves the turtle foward by the given distance."""
+        x, y = self.x, self.y # is this a tuple? 
+        p1 = [x, y] # this is an array, not a tuple
+        p2 = self.polar(x, y, dist, self.heading)
+        self.x, self.y = p2
+
+        # if the pen is down, draw a line
+        if self.pen and self.world.exists:
+            self.world.canvas.line([p1, p2], fill=self.pen_color)
+        self.redraw()
+	* Difference between assigning a value to the property of an instance (self.blah = 32) vs. (blah = 32)
+		Whenever you call that instance, you get
+		Why type pass?
+		Mmathr02@gmail.com
+
+So it adds ".x" and ".y" attributes to the class... or directly to the instance when it's called? 
+Does it create the polar method right here, or does the code construct it elsewhere? 
+What trigonometry is required to create the flowers in Allen's example? 
+
+
+		
+How self really works
+
+"it is easy to see where the self fits in. You don't actually write instance methods in Python; what you write is class methods which (must) take an instance as a first parameter. "
+
+Why self is explicitly defined
+Z
+
+
+		- Learned stack diagrams and docstrings
+ - Understand p1 = [x, y] 
+ - Understand tuples
+ 
+To understand that I* don't understand 100 things, and not be fatigued by this, but inspired to understand more!! 
+
+ 
+ What do I* know now that I* didn't know before?
+How to turn Bob left
+The importance of classes... putting a bunch of little parts together, copying that, before, attempting to modify it... 
+How to use multiple variables
+Understand Allen's and Tkinter's code enough to draw a stack diagram for it. 
+How to import the inspect module and get information on other code using it. 
+
+
+
+Understanding
+
+What makes Swampy work
+What Swampy really is
