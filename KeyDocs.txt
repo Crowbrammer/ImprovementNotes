@@ -1,0 +1,11 @@
+%s
+**kwargs
+importing classes from other files
+
+
+Spend as much time reviewing knowns as unknowns
+New ways to reward good habits
+
+
+
+Whenever you run into a rough, particularly abstract concept, create 13 references for it.
